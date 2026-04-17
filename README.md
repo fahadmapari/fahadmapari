@@ -30,53 +30,6 @@ I don’t just build features — I build **systems that work in production**.
 
 ---
 
-## 🧩 Featured Projects
-
-### 🌍 Full-Stack Travel Management Platform
-
-> Scalable system with real-time capabilities and production deployment
-
-- Designed full backend with **Node.js, TypeScript, MongoDB, Redis**
-- Implemented **WebSocket-based real-time updates**
-- Built admin panel (React + Vite) and public frontend (Next.js)
-- End-to-end deployment with **CI/CD (GitHub Actions)**
-- Secure authentication with JWT
-
----
-
-### 🤖 Terabot – Automation System
-
-> End-to-end automation system with backend + browser execution
-
-- Built automation engine using **Playwright**
-- Designed backend for **license management (IP/device-bound)**
-- Admin dashboard with role-based authentication
-- Secure API + monitoring + update pipeline
-
----
-
-### 🏢 Simplify Entry – QR-Based Logging System
-
-> Smart system for visitor tracking and operational efficiency
-
-- Dynamic QR system for real-world usage
-- Backend with role-based access (Passport.js)
-- Admin dashboard with analytics & logs
-- Automated workflows replacing manual processes
-
----
-
-### 💬 HelloWorld – Developer Platform
-
-> Social + real-time communication platform
-
-- Built full-stack app with MVC architecture
-- Real-time chat via **WebSockets**
-- Secure auth (sessions, CSRF protection)
-- Optimized performance with indexing + AJAX
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -100,12 +53,6 @@ I don’t just build features — I build **systems that work in production**.
 - AWS S3
 - CI/CD (GitHub Actions)
 - Nginx / PM2
-
----
-
-## 📊 GitHub Stats
-
-![Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahadmapari&show_icons=true&theme=radical)
 
 ---
 

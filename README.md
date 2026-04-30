@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-I'm a full-stack engineer with 3+ years of experience building **scalable, real-world applications end-to-end**.
+I'm a full-stack engineer building **scalable, real-world applications end-to-end**.
 
 - 🏗️ Architect and develop **complete systems (frontend + backend + infra)**
 - ⚡ Build **real-time, high-performance applications**
